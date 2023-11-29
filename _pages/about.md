@@ -32,11 +32,12 @@ Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yu
 <a href="https://www.amazon.science/publications/fashionvlp-vision-language-transformer-for-fashion-retrieval-with-feedback" class="btn btn--success">Paper</a></p> -->
 
 <h1 id="research"> Research Interests </h1>
-Computer Vision <br> 
-Multi-modal Machine Learning <br> 
-Robustness and Security <br> 
-Parameter-efficient Learning </p>
-
+<ul>
+    <li>Adversarial Learning</li>
+    <li>Multi-modal Machine Learning</li>
+    <li>Robustness and Security</li>
+    <li>Parameter-efficient Learning</li>
+</ul>
 
 <h1 id="education"> Education </h1>
 <div style='display: flex; justify-content: space-between;'>
@@ -44,7 +45,7 @@ Parameter-efficient Learning </p>
 	<i>Aug. 2022 - May 2024</i>
 </div>
 GPA: <strong>3.8</strong>/4.0
-<br> Bachelor of Science in Computer Science <br>
+<br> Master of Science in Computer Science <br><p>
 
 <div style='display: flex; justify-content: space-between;'>
 	<p style='font-size:20px'><b>Huazhong University of Science and Technology</b></p>
@@ -54,16 +55,18 @@ GPA: <strong>3.84</strong>/4.0
 <br> Bachelor of Engineering in Automation, Pattern Recognition <br><p>
 
 <h1 id="awards"> Awards </h1>
-Outstanding Graduate, 2022 <br> 
-Excellent College Students' Research Program, 2022 <br>
-Scholarship for Scientific and Technological Innovation, 2021 <br> 
-Scholarship for Academic Excellence, 2021 <br> 
-Social Scholarship for "Shenzhen Stock Exchange", 2021 <br> 
-National First prize, Big Data Competition, 2021 <br><p> 
+<ul>
+    <li>Outstanding Graduate, 2022</li>
+    <li>Excellent College Students' Research Program, 2022</li>
+    <li>Scholarship for Scientific and Technological Innovation, 2021</li>
+    <li>Scholarship for Academic Excellence, 2021</li>
+    <li>Social Scholarship for "Shenzhen Stock Exchange", 2021</li>
+    <li>National First prize, Big Data Competition, 2021</li>
+</ul>
 
 <h1 id="skills"> Technical Skills </h1>
-<strong>Programming Languages:</strong> Python, C/C++, Shell, Matlab, SQL <br>
-<strong>Software & Platform:</strong> Linux, LaTeX, Qt, Git, Docker <br>
+<strong>Programming Languages:</strong> Python, C/C++, Shell, JAVA, Matlab, SQL, Assembly Language <br>
+<strong>Software & Platform:</strong> Linux, LaTeX, MFC, Qt, Simulink, Git, Docker <br>
 <strong>Deep Learning Frameworks:</strong> PyTorch, Tensorflow, NumPy, HuggingFace, Caffe, Keras <p>
 
 

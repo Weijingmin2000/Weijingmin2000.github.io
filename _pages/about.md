@@ -63,6 +63,10 @@ Scholarship for Scientific and Technological Innovation, 2021 <br>
 Social Scholarship for "Shenzhen Stock Exchange", 2021 <br> 
 National First prize, Big Data Competition, 2021 <br> 
 
+<h1 id="skills"> Technical Skills </h1>
+<strong>Programming Languages:</strong> Python, C/C++, Shell, Matlab, SQL <br>
+<strong>Software & Platform:</strong> Linux, LaTeX, Qt, Git, Docker <br>
+<strong>Deep Learning Frameworks:</strong> PyTorch, Tensorflow, NumPy, HuggingFace, Caffe, Keras </p>
 
 
 <p hidden><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WuTycU_gptD1_uRJMJF-BV4Q0VudvsyDQpgvA3okEYs&cl=ffffff&w=a"></script></p>

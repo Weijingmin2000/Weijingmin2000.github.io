@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhaoheng Zheng"
 title_separator          : "-"
-name                     : &name "Zhaoheng Zheng"
+name                     : &name "Jingmin Wei"
 description              : &description "Ph.D. Candidate @ University of Southern California"
 url                      : https://zhaohengz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

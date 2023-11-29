@@ -14,6 +14,16 @@ Prior to USC, I obtained my B.Eng. degree at the [School of Artificial Intellige
 
 <!-- <font color="#ff0000">I am graduating in 2023/early 2024 and now actively looking for full-time positions in computer vision, machine learning, and artificial intelligence. Please feel free to get in touch if there are any opportunities!</font> -->
 
+<h2 id="research"> Research Interests </h2>
+
+<ul>
+    <li>Computer Vision</li>
+    <li>Multi-modal Machine Learning</li>
+    <li>Robustness and Security</li>
+    <li>Parameter-efficient Learning</li>
+</ul>
+
+
 <h2 id="publications"> Publications </h2>
 
 <p><u>Large Language Models are Good Prompt Learners for Low-Shot Image Classification</u><br>
@@ -30,14 +40,6 @@ Zhaoheng Zheng, <strong>Jingmin Wei</strong>, Xuefeng Hu, Haidong Zhu, and Ram N
 Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yue Wu, Pradeep Natarajan, and Varsha Hedau
 <br> CVPR 2022<br>
 <a href="https://www.amazon.science/publications/fashionvlp-vision-language-transformer-for-fashion-retrieval-with-feedback" class="btn btn--success">Paper</a></p> -->
-
-<h2 id="research"> Research Interests </h2>
-<ul>
-    <li>Computer Vision</li>
-    <li>Multi-modal Machine Learning</li>
-    <li>Robustness and Security</li>
-    <li>Parameter-efficient Learning</li>
-</ul>
 
 <h2 id="education"> Education </h2>
 <div style='display: flex; justify-content: space-between;'>

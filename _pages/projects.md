@@ -33,7 +33,7 @@ Research Program<br>
 
 <p><u>Emotion Assessment Based on Facial Language Understanding</u><br>
 Advisor: Prof. Sheng Zhong<br>
-Research Program<br>
+Research Program, Team leader<br>
 
 
 <h2> 2021 </h2>
@@ -52,7 +52,14 @@ National First Prize<br>
 
 
 <h2> 2019 </h2>
+
+<p><u>Embedded Machine Vision Design</u><br>
+Control Innovation Base Class of Qiming College of HUST<br>
+Course Design, Score A+<br>
+
+
 <p><u>Securities Quantitative Trading Software</u><br>
-Course Project, Full Mark<br>
+Advisor: Prof. Dingxin He<br>
+Course Design, Full Mark<br>
 Second prize in the C Software Design Competition<br>
 <a href="https://github.com/Weijingmin2000/STOCK" class="btn btn--success">Github Repo</a></p>

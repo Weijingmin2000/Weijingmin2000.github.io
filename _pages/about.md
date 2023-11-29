@@ -14,7 +14,7 @@ Prior to USC, I obtained my B.Eng. degree at the [School of Artificial Intellige
 
 <!-- <font color="#ff0000">I am graduating in 2023/early 2024 and now actively looking for full-time positions in computer vision, machine learning, and artificial intelligence. Please feel free to get in touch if there are any opportunities!</font> -->
 
-<h1 id="publications"> Publications </h1>
+<h2 id="publications"> Publications </h2>
 
 <p><u>Large Language Models are Good Prompt Learners for Low-Shot Image Classification</u><br>
 Zhaoheng Zheng, <strong>Jingmin Wei</strong>, Xuefeng Hu, Haidong Zhu, and Ram Nevatia
@@ -31,7 +31,7 @@ Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yu
 <br> CVPR 2022<br>
 <a href="https://www.amazon.science/publications/fashionvlp-vision-language-transformer-for-fashion-retrieval-with-feedback" class="btn btn--success">Paper</a></p> -->
 
-<h1 id="research"> Research Interests </h1>
+<h2 id="research"> Research Interests </h2>
 <ul>
     <li>Computer Vision</li>
     <li>Multi-modal Machine Learning</li>
@@ -39,7 +39,7 @@ Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yu
     <li>Parameter-efficient Learning</li>
 </ul>
 
-<h1 id="education"> Education </h1>
+<h2 id="education"> Education </h2>
 <div style='display: flex; justify-content: space-between;'>
 	<p style='font-size:20px'><b>University of Southern California</b></p>
 	<i>Aug. 2022 - May 2024</i>
@@ -54,7 +54,7 @@ GPA: <strong>3.8</strong>/4.0
 GPA: <strong>3.84</strong>/4.0
 <br> Bachelor of Engineering in Automation, Pattern Recognition <br><p>
 
-<h1 id="awards"> Awards </h1>
+<h2 id="awards"> Awards </h2>
 <ul>
     <li>Outstanding Graduate, 2022</li>
     <li>Excellent College Students' Research Program, 2022</li>
@@ -64,7 +64,7 @@ GPA: <strong>3.84</strong>/4.0
     <li>National First prize, Big Data Competition, 2021</li>
 </ul>
 
-<h1 id="skills"> Technical Skills </h1>
+<h2 id="skills"> Technical Skills </h2>
 <strong>Programming Languages:</strong> Python, C/C++, Shell, JAVA, Matlab, SQL, Assembly Language <br>
 <strong>Software & Platform:</strong> Linux, LaTeX, MFC, Qt, Simulink, Git, Docker <br>
 <strong>Deep Learning Frameworks:</strong> PyTorch, Tensorflow, NumPy, HuggingFace, Caffe, Keras <p>

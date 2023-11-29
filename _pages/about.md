@@ -61,7 +61,7 @@ Excellent College Students' Research Program, 2022 <br>
 Scholarship for Academic Excellence, 2021 <br> 
 Scholarship for Scientific and Technological Innovation, 2021 <br> 
 Social Scholarship for "Shenzhen Stock Exchange", 2021 <br> 
-National First prize, Big Data Competition, 2021 <br> 
+National First prize, Big Data Competition, 2021 <br></p> 
 
 <h1 id="skills"> Technical Skills </h1>
 <strong>Programming Languages:</strong> Python, C/C++, Shell, Matlab, SQL <br>

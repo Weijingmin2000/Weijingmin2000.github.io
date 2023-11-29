@@ -33,7 +33,7 @@ Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yu
 
 <h1 id="research"> Research Interests </h1>
 <ul>
-    <li>Adversarial Learning</li>
+    <li>Computer Vision</li>
     <li>Multi-modal Machine Learning</li>
     <li>Robustness and Security</li>
     <li>Parameter-efficient Learning</li>

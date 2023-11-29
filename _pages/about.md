@@ -18,7 +18,7 @@ Prior to USC, I obtained my B.Eng. degree at the [School of Artificial Intellige
 
 <p><u>Large Language Models are Good Prompt Learners for Low-Shot Image Classification</u><br>
 Zhaoheng Zheng, <strong>Jingmin Wei</strong>, Xuefeng Hu, Haidong Zhu, and Ram Nevatia
-<br> [Under Review] <br>
+<br> [Submitted to CVPR-24] <br>
 <!-- <a href="https://arxiv.org/abs/2305.16681" class="btn btn--success">Paper</a></p> -->
 
 <p><u>GDN: A Stacking Network Used for Skin Cancer Diagnosis</u><br>

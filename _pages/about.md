@@ -46,23 +46,24 @@ GPA: <strong>4</strong>/4
 	<i>Sep. 2018 - Jun. 2022</i>
 </div>
 GPA: <strong>4</strong>/4
-<br> Bachelor of Engineering in Automation, Pattern Recognition </br>
+<br> Bachelor of Engineering in Automation, Pattern Recognition </br></p>
 
 
 <h1 id="research"> Research Interests </h1>
 Computer Vision <br> 
 Multi-modal Machine Learning <br> 
 Robustness and Security <br> 
-Parameter-efficient Learning 
+Parameter-efficient Learning </p>
 
 
 <h1 id="awards"> Awards </h1>
-- Outstanding Graduate, 2022
-- Scholarship for Academic Excellence, 2021
-- Scholarship for Scientific and Technological Innovation, 2021
-- Social Scholarship for "Shenzhen Stock Exchange", 2021
-- National First prize, Big Data Competition, 2021
-- Excellent Provincial-level College Students' Research Program, 2021
+Outstanding Graduate, 2022 <br> 
+Excellent Provincial-level College Students' Research Program, 2022 <br> 
+Scholarship for Academic Excellence, 2021 <br> 
+Scholarship for Scientific and Technological Innovation, 2021 <br> 
+Social Scholarship for "Shenzhen Stock Exchange", 2021 <br> 
+National First prize, Big Data Competition, 2021 <br> 
+
 
 
 <p hidden><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WuTycU_gptD1_uRJMJF-BV4Q0VudvsyDQpgvA3okEYs&cl=ffffff&w=a"></script></p>

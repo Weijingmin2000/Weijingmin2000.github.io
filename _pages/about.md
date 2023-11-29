@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computer Science at University of Southern California, starting in 2019. I am very fortunate to be advised by Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/).
-My research interest lies in the area of multimodal perception with vision and language, including large-scale vision-language transformers, and compositional zero-shot learning. I am now especially interested in Multimodal Large Language Models <strong>(LLMs)</strong> towards Artificial General Intelligence <strong>(AGI)</strong>.
+Hi! I'm Jingmin Wei, a second-year M.S. student studying at Univ. of Southern California, majoring in [Computer Science](https://www.cs.usc.edu/). I'm very fortunate to work with [Prof. Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) and [Dr. Zhaoheng Zheng](https://zhaohengz.github.io/) at [IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/). My research interest lines in the area of <strong>stability and efficiency<strong>, including Vision Robust Representation (Adversarial Learning) and Parameter-efficient Learning (Multi-modal Adapter, Prompt Learning).
 
-I recently interned at Microsoft Research Redmond, mentored by [Vibhav Vineet](https://vibhav-vineet.github.io/), during the summer of 2023. In 2021 and 2022, I spent two wonderful summers as an Applied Scientist Intern at Amazon Alexa AI, working with [Rakesh Chada](https://www.amazon.science/author/rakesh-chada) and [Yue (Rex) Wu](https://scholar.google.com/citations?user=fONV3IgAAAAJ&hl=en).
+Prior to USC, I obtained my B.E. degree at the [School of Artificial Intelligence and Automation](http://english.aia.hust.edu.cn/), Huazhong Univ. of Science and Technology. I worked as an undergrad research assistant, advised by [Prof. Sheng Zhong](http://english.aia.hust.edu.cn/info/1030/1347.htm), focusing on research about Facial Language Analysis and Understanding.
 
-Prior to USC, I was a Master's student at University of Michigan, Ann Arbor, where I worked with Prof. [David Fouhey](https://web.eecs.umich.edu/~fouhey/) and Prof. [Jia Deng](https://www.cs.princeton.edu/~jiadeng/). I received my Bachelor's degree from Tsinghua University in 2017. During my undergrad time, I worked with [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/shimin.htm).
+Feel free to contact me: jingminw@usc.edu, or through [LinkedIn](https://www.linkedin.com/in/jingminwei/).
 
 <font color="#ff0000">I am graduating in 2023/early 2024 and now actively looking for full-time positions in computer vision, machine learning, and artificial intelligence. Please feel free to get in touch if there are any opportunities!</font>
 

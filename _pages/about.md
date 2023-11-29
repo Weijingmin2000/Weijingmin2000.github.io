@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jingmin Wei, a second-year M.S. student studying at Univ. of Southern California, majoring in [Computer Science](https://www.cs.usc.edu/). I'm very fortunate to work with [Prof. Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) and [Dr. Zhaoheng Zheng](https://zhaohengz.github.io/) at [IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/). My research interest lines in the area of <strong>stability and efficiency</strong>, including Vision Robust Representation (Adversarial Learning) and Parameter-efficient Learning (Multi-modal Adapter, Prompt Learning).
+Hi! I'm Jingmin Wei, a second-year M.S. student studying at University of Southern California (USC), majoring in [Computer Science](https://www.cs.usc.edu/). I'm very fortunate to work with Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) and [Dr. Zhaoheng Zheng](https://zhaohengz.github.io/) at [IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/). My research interest lines in the area of <strong>stability</strong> and <strong>efficiency</strong>, including Vision Robust Representation (Adversarial Learning) and Parameter-efficient Learning (Multi-modal Adapter, Prompt Learning).
 
-Prior to USC, I obtained my B.E. degree at the [School of Artificial Intelligence and Automation](http://english.aia.hust.edu.cn/), Huazhong Univ. of Science and Technology. I worked as an undergrad research assistant, advised by [Prof. Sheng Zhong](http://english.aia.hust.edu.cn/info/1030/1347.htm), focusing on research about Facial Language Analysis and Understanding.
+Prior to USC, I obtained my B.E. degree at the [School of Artificial Intelligence and Automation](http://english.aia.hust.edu.cn/), Huazhong University of Science and Technology. I worked as an undergrad research assistant, advised by Prof. [Sheng Zhong](http://english.aia.hust.edu.cn/info/1030/1347.htm), focusing on research about Facial Language Analysis and Understanding.
 
 Feel free to contact me: jingminw@usc.edu, or through [LinkedIn](https://www.linkedin.com/in/jingminwei/).
 
@@ -23,9 +23,10 @@ Zhaoheng Zheng, <strong>Jingmin Wei</strong>, Xuefeng Hu, Haidong Zhu, and Ram N
 <br> [Under Review]<br>
 <!-- <a href="https://arxiv.org/abs/2305.16681" class="btn btn--success">Paper</a></p> -->
 
-<p><u>Large Language Models are Good Prompt Learners for Low-Shot Image Classification</u><br>
-Zhaoheng Zheng, <strong>Jingmin Wei</strong>, Xuefeng Hu, Haidong Zhu, and Ram Nevatia
-<br> [Under Review]<br>
+<p><u>GDN: A Stacking Network Used for Skin Cancer Diagnosis</u><br>
+<strong>Jingmin Wei</strong>, Haoyang Shen, Ziyi Wang, Ziqian Zhang
+<br> ICSPS 2021<br>
+<a href="https://doi.org/10.1117/12.2631455" class="btn btn--success">Website</a></p> -->
 
 <!-- <p><u>FashionVLP: Vision Language Transformer for Fashion Retrieval with Feedback</u><br>
 Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yue Wu, Pradeep Natarajan, and Varsha Hedau

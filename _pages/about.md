@@ -33,28 +33,27 @@ Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yu
 <br> CVPR 2022<br>
 <a href="https://www.amazon.science/publications/fashionvlp-vision-language-transformer-for-fashion-retrieval-with-feedback" class="btn btn--success">Paper</a></p> -->
 
-<h1 id="education"> Education </h1>
-<div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px'><b>University of Southern California</b></p>
-	<i>Aug. 2022 - May 2024</i>
-</div>
-GPA: <strong>4</strong>/4
-<br> Bachelor of Science in Computer Science </br>
-
-<div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px'><b>Huazhong University of Southern California</b></p>
-	<i>Sep. 2018 - Jun. 2022</i>
-</div>
-GPA: <strong>4</strong>/4
-<br> Bachelor of Engineering in Automation, Pattern Recognition </br></p>
-
-
 <h1 id="research"> Research Interests </h1>
 Computer Vision <br> 
 Multi-modal Machine Learning <br> 
 Robustness and Security <br> 
 Parameter-efficient Learning </p>
 
+
+<h1 id="education"> Education </h1>
+<div style='display: flex; justify-content: space-between;'>
+	<p style='font-size:20px'><b>University of Southern California</b></p>
+	<i>Aug. 2022 - May 2024</i>
+</div>
+GPA: <strong>4.0</strong>/4.0
+<br> Bachelor of Science in Computer Science </br>
+
+<div style='display: flex; justify-content: space-between;'>
+	<p style='font-size:20px'><b>Huazhong University of Science and Technology</b></p>
+	<i>Sep. 2018 - Jun. 2022</i>
+</div>
+GPA: <strong>3.84</strong>/4.0
+<br> Bachelor of Engineering in Automation, Pattern Recognition </br></p>
 
 <h1 id="awards"> Awards </h1>
 Outstanding Graduate, 2022 <br> 

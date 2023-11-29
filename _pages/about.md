@@ -14,16 +14,16 @@ Prior to USC, I obtained my B.E. degree at the [School of Artificial Intelligenc
 
 Feel free to contact me: jingminw@usc.edu, or through [LinkedIn](https://www.linkedin.com/in/jingminwei/).
 
-<font color="#ff0000">I am graduating in 2023/early 2024 and now actively looking for full-time positions in computer vision, machine learning, and artificial intelligence. Please feel free to get in touch if there are any opportunities!</font>
+<!-- <font color="#ff0000">I am graduating in 2023/early 2024 and now actively looking for full-time positions in computer vision, machine learning, and artificial intelligence. Please feel free to get in touch if there are any opportunities!</font> -->
 
-<h1 id="publications"> Selected Publications (<a href="/publications/">Full List</a>)</h1>
+<h1 id="publications"> Publications (<a href="/publications/">Full List</a>)</h1>
 
-<p><u>CAILA: Concept-Aware Intra-Layer Adapters for Compositional Zero-Shot Learning</u><br>
-<strong>Zhaoheng Zheng</strong>, Haidong Zhu, and Ram Nevatia
-<br> WACV 2024<br>
-<a href="https://arxiv.org/abs/2305.16681" class="btn btn--success">Paper</a></p>
+<p><u>Large Language Models are Good Prompt Learners for Low-Shot Image Classification</u><br>
+Zhaoheng Zheng, <strong>Jingmin Wei</strong>, Xuefeng Hu, Haidong Zhu, and Ram Nevatia
+<br> [Under Review]<br>
+<!-- <a href="https://arxiv.org/abs/2305.16681" class="btn btn--success">Paper</a></p> -->
 
-<p><u>MoMo: A shared encoder Model for text, image and multi-Modal representations</u><br>
+<!-- <p><u>MoMo: A shared encoder Model for text, image and multi-Modal representations</u><br>
 Rakesh Chada, <strong>Zhaoheng Zheng</strong>, and Pradeep Natarajan
 <br> arXiv Preprint<br>
 <a href="https://arxiv.org/abs/2304.05523" class="btn btn--success">Paper</a></p>
@@ -31,11 +31,11 @@ Rakesh Chada, <strong>Zhaoheng Zheng</strong>, and Pradeep Natarajan
 <p><u>PatchZero: Defending against Adversarial Patch Attacks by Detecting and Zeroing the Patch</u><br>
 Ke Xu*, Yao Xiao*, <strong>Zhaoheng Zheng</strong>, Kaijie Cai, and Ram Nevatia
 <br> WACV 2023<br>
-<a href="https://arxiv.org/abs/2207.01795" class="btn btn--success">Paper</a></p>
+<a href="https://arxiv.org/abs/2207.01795" class="btn btn--success">Paper</a></p> -->
 <!-- <a href="https://github.com/TheShadow29/VidSitu" class="btn btn--warning">Code</a>
 ; <a href="https://vidsitu.org/" class="btn btn--danger">Website</a> -->
 
-<p><u>FashionVLP: Vision Language Transformer for Fashion Retrieval with Feedback</u><br>
+<!-- <p><u>FashionVLP: Vision Language Transformer for Fashion Retrieval with Feedback</u><br>
 Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yue Wu, Pradeep Natarajan, and Varsha Hedau
 <br> CVPR 2022<br>
 <a href="https://www.amazon.science/publications/fashionvlp-vision-language-transformer-for-fashion-retrieval-with-feedback" class="btn btn--success">Paper</a></p>
@@ -48,6 +48,6 @@ Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yu
 <p><u>Image Based Cloth Changing System</u><br>
 <strong>Zhaoheng Zheng</strong>, Hao-Tian Zhang, Fang-Lue Zhang, and Tai-Jiang Mu
 <br> Computational Visual Media, 2017<br>
-<a href="https://cs.stanford.edu/~haotianz/research/clothes_changing/clothes_changing.pdf" class="btn btn--success">Paper</a></p>
+<a href="https://cs.stanford.edu/~haotianz/research/clothes_changing/clothes_changing.pdf" class="btn btn--success">Paper</a></p> -->
 
 <p hidden><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WuTycU_gptD1_uRJMJF-BV4Q0VudvsyDQpgvA3okEYs&cl=ffffff&w=a"></script></p>

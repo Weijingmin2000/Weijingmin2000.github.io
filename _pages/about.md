@@ -43,7 +43,7 @@ Parameter-efficient Learning </p>
 	<p style='font-size:20px'><b>University of Southern California</b></p>
 	<i>Aug. 2022 - May 2024</i>
 </div>
-GPA: <strong>4.0</strong>/4.0
+GPA: <strong>3.8</strong>/4.0
 <br> Bachelor of Science in Computer Science <br>
 
 <div style='display: flex; justify-content: space-between;'>
@@ -55,9 +55,9 @@ GPA: <strong>3.84</strong>/4.0
 
 <h1 id="awards"> Awards </h1>
 Outstanding Graduate, 2022 <br> 
-Excellent College Students' Research Program, 2022 <br> 
-Scholarship for Academic Excellence, 2021 <br> 
+Excellent College Students' Research Program, 2022 <br>
 Scholarship for Scientific and Technological Innovation, 2021 <br> 
+Scholarship for Academic Excellence, 2021 <br> 
 Social Scholarship for "Shenzhen Stock Exchange", 2021 <br> 
 National First prize, Big Data Competition, 2021 <br><p> 
 

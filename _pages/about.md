@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jingmin Wei, a second-year M.S. student studying at University of Southern California (USC), majoring in [Computer Science](https://www.cs.usc.edu/). I'm very fortunate to work with Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) and [Dr. Zhaoheng Zheng](https://zhaohengz.github.io/) at [IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/). My research interest lines in the area of <strong>stability</strong> and <strong>efficiency</strong>, including Vision Robust Representation (Adversarial Learning) and Parameter-efficient Learning (Multi-modal Adapter, Prompt Learning).
+Hi! I'm Jingmin Wei, a second-year M.S. student studying at University of Southern California (USC), majoring in [Computer Science](https://www.cs.usc.edu/). I'm very fortunate to work with Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) and [Dr. Zhaoheng Zheng](https://zhaohengz.github.io/) at [IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/). My research interest lines in the area of <strong>stability and <strong>efficiency</strong>, including Vision Robust Representation (Adversarial Learning) and Parameter-efficient Learning (Multi-modal Adapter, Prompt Learning).
 
 Prior to USC, I obtained my B.E. degree at the [School of Artificial Intelligence and Automation](http://english.aia.hust.edu.cn/), Huazhong University of Science and Technology. I worked as an undergrad research assistant, advised by Prof. [Sheng Zhong](http://english.aia.hust.edu.cn/info/1030/1347.htm), focusing on research about Facial Language Analysis and Understanding.
 
@@ -26,11 +26,34 @@ Zhaoheng Zheng, <strong>Jingmin Wei</strong>, Xuefeng Hu, Haidong Zhu, and Ram N
 <p><u>GDN: A Stacking Network Used for Skin Cancer Diagnosis</u><br>
 <strong>Jingmin Wei</strong>, Haoyang Shen, Ziyi Wang, Ziqian Zhang
 <br> ICSPS 2021<br>
-<a href="https://doi.org/10.1117/12.2631455" class="btn btn--success">Website</a></p> -->
+<a href="https://doi.org/10.1117/12.2631455" class="btn btn--success">Website</a></p>
 
 <!-- <p><u>FashionVLP: Vision Language Transformer for Fashion Retrieval with Feedback</u><br>
 Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yue Wu, Pradeep Natarajan, and Varsha Hedau
 <br> CVPR 2022<br>
 <a href="https://www.amazon.science/publications/fashionvlp-vision-language-transformer-for-fashion-retrieval-with-feedback" class="btn btn--success">Paper</a></p> -->
+
+# Education
+<div style='display: flex; justify-content: space-between;'>
+	<p style='font-size:20px'><b>University of Southern California</b></p>
+	<i>Aug. 2022 - May 2024</i>
+</div>
+GPA: <strong>4</strong>/4
+<br> Bachelor of Science in Computer Science </br>
+
+<div style='display: flex; justify-content: space-between;'>
+	<p style='font-size:20px'><b>Huazhong University of Southern California</b></p>
+	<i>Sep. 2018 - Jun. 2022</i>
+</div>
+GPA: <strong>4</strong>/4
+<br> Bachelor of Engineering in Automation, Pattern Recognition </br>
+
+
+<h1 id="publications"> Research Interests </h1>
+Computer Vision
+Multi-modal Machine Learning
+Robustness
+Parameter-efficient Learning
+
 
 <p hidden><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WuTycU_gptD1_uRJMJF-BV4Q0VudvsyDQpgvA3okEYs&cl=ffffff&w=a"></script></p>

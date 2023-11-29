@@ -51,7 +51,7 @@ GPA: <strong>4.0</strong>/4.0
 	<i>Sep. 2018 - Jun. 2022</i>
 </div>
 GPA: <strong>3.84</strong>/4.0
-<br> Bachelor of Engineering in Automation, Pattern Recognition <br></p>
+<br> Bachelor of Engineering in Automation, Pattern Recognition <br><p>
 
 <h1 id="awards"> Awards </h1>
 Outstanding Graduate, 2022 <br> 
@@ -59,12 +59,12 @@ Excellent College Students' Research Program, 2022 <br>
 Scholarship for Academic Excellence, 2021 <br> 
 Scholarship for Scientific and Technological Innovation, 2021 <br> 
 Social Scholarship for "Shenzhen Stock Exchange", 2021 <br> 
-National First prize, Big Data Competition, 2021 <br></p> 
+National First prize, Big Data Competition, 2021 <br><p> 
 
 <h1 id="skills"> Technical Skills </h1>
 <strong>Programming Languages:</strong> Python, C/C++, Shell, Matlab, SQL <br>
 <strong>Software & Platform:</strong> Linux, LaTeX, Qt, Git, Docker <br>
-<strong>Deep Learning Frameworks:</strong> PyTorch, Tensorflow, NumPy, HuggingFace, Caffe, Keras </p>
+<strong>Deep Learning Frameworks:</strong> PyTorch, Tensorflow, NumPy, HuggingFace, Caffe, Keras <p>
 
 
 <p hidden><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WuTycU_gptD1_uRJMJF-BV4Q0VudvsyDQpgvA3okEYs&cl=ffffff&w=a"></script></p>

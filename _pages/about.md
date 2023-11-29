@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jingmin Wei, a second-year M.S. student studying at University of Southern California (USC), majoring in [Computer Science](https://www.cs.usc.edu/). I'm very fortunate to work with Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) and [Dr. Zhaoheng Zheng](https://zhaohengz.github.io/) at [IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/). My research interest lines in the area of <strong>stability and <strong>efficiency</strong>, including Vision Robust Representation (Adversarial Learning) and Parameter-efficient Learning (Multi-modal Adapter, Prompt Learning).
+Hi! I'm Jingmin Wei, a second-year M.S. student studying at University of Southern California (USC), majoring in [Computer Science](https://www.cs.usc.edu/). I'm very fortunate to work with Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) and Dr. [Zhaoheng Zheng](https://zhaohengz.github.io/) at [IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/). My research interest lines in the area of <strong>stability</strong> and <strong>efficiency</strong>, including Vision Robust Representation (Adversarial Learning) and Parameter-efficient Learning (Multi-modal Adapter, Prompt Learning).
 
-Prior to USC, I obtained my B.E. degree at the [School of Artificial Intelligence and Automation](http://english.aia.hust.edu.cn/), Huazhong University of Science and Technology. I worked as an undergrad research assistant, advised by Prof. [Sheng Zhong](http://english.aia.hust.edu.cn/info/1030/1347.htm), focusing on research about Facial Language Analysis and Understanding.
+Prior to USC, I obtained my B.Eng. degree at the [School of Artificial Intelligence and Automation](http://english.aia.hust.edu.cn/), Huazhong University of Science and Technology. I worked as an undergrad research assistant, advised by Prof. [Sheng Zhong](http://english.aia.hust.edu.cn/info/1030/1347.htm), focusing on research about Facial Language Analysis and Understanding.
 
 Feel free to contact me: jingminw@usc.edu, or through [LinkedIn](https://www.linkedin.com/in/jingminwei/).
 
@@ -46,18 +46,18 @@ Parameter-efficient Learning </p>
 	<i>Aug. 2022 - May 2024</i>
 </div>
 GPA: <strong>4.0</strong>/4.0
-<br> Bachelor of Science in Computer Science </br>
+<br> Bachelor of Science in Computer Science <br>
 
 <div style='display: flex; justify-content: space-between;'>
 	<p style='font-size:20px'><b>Huazhong University of Science and Technology</b></p>
 	<i>Sep. 2018 - Jun. 2022</i>
 </div>
 GPA: <strong>3.84</strong>/4.0
-<br> Bachelor of Engineering in Automation, Pattern Recognition </br></p>
+<br> Bachelor of Engineering in Automation, Pattern Recognition <br></p>
 
 <h1 id="awards"> Awards </h1>
 Outstanding Graduate, 2022 <br> 
-Excellent Provincial-level College Students' Research Program, 2022 <br> 
+Excellent College Students' Research Program, 2022 <br> 
 Scholarship for Academic Excellence, 2021 <br> 
 Scholarship for Scientific and Technological Innovation, 2021 <br> 
 Social Scholarship for "Shenzhen Stock Exchange", 2021 <br> 

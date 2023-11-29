@@ -18,7 +18,7 @@ Prior to USC, I obtained my B.Eng. degree at the [School of Artificial Intellige
 
 <p><u>Large Language Models are Good Prompt Learners for Low-Shot Image Classification</u><br>
 Zhaoheng Zheng, <strong>Jingmin Wei</strong>, Xuefeng Hu, Haidong Zhu, and Ram Nevatia
-<br> [Submitted to CVPR-24] <br>
+<br> [Submitted to CVPR 2024] <br>
 <!-- <a href="https://arxiv.org/abs/2305.16681" class="btn btn--success">Paper</a></p> -->
 
 <p><u>GDN: A Stacking Network Used for Skin Cancer Diagnosis</u><br>
@@ -42,7 +42,7 @@ Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yu
 <h2 id="education"> Education </h2>
 <div style='display: flex; justify-content: space-between;'>
 	<p style='font-size:20px'><b>University of Southern California</b></p>
-	<i>Aug. 2022 - May 2024</i>
+	<i>Aug. 2022 - May 2024 (Expected)</i>
 </div>
 GPA: <strong>3.8</strong>/4.0
 <br> Master of Science in Computer Science <br><p>

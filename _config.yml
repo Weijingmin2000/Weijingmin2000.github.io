@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhaoheng Zheng <br> (郑兆衡) </br>"
-  avatar           : "zhaoheng.png"
-  bio              : "Ph.D. Candidate @ USC"
+  name             : "Jingmin Wei <br> (魏靖旻) </br>"
+  avatar           : "jingmin.png"
+  bio              : "Grad Student @ USC - M.S. in Computer Science"
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=36e4ADAAAAAJ&hl=en"
-  email            :  "zhaoheng.zheng@usc.edu"
+  email            :  "jingminw@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhaohengz"
+  github           : "Weijingmin2000"
   google_plus      :
   keybase          :
   instagram        :

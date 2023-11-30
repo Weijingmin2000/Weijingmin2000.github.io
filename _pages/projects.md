@@ -15,10 +15,8 @@ Course Project<br>
 <ul>
     <li>Developed a language-driven 3D stylization pipeline.</li>
     <li>Trained a radiance field model for 3D object rendering.</li>
-    <li>Applied GroundingDINO to generate object bounding boxes for given object query.</li>
-    <li>Applied SAM to generate segmentation masks for given GroundingDINO bounding boxes.</li>
-    <li>Applied masked NNFM to fine-tune the pretrained radiance field for style transfer.</li>
-    <li>Achieved languaged-based object-level selection for 3D target stylization.</li>
+    <li>Applied GroundingedSAM to generate segmentation masks for for any given object query inputs, allowing object-level selection for stylization target.</li>
+    <li>Applied masked NNFM to fine-tune the pretrained radiance field to achieve 3D stylization.</li>
 </ul><p>
 
 <p><u>Multi-object Robust Tracking</u><br>
@@ -52,7 +50,7 @@ Research Program<br>
     <li>Developed a defense pipeline for RGB-depth object detection against different adversarial attacks (nonadaptive attacks, adaptive attacks).</li>
     <li>Formulated the patch defense problem as a segmentation task for RGB channel to detect adversarial patch.</li>
     <li>Maked an identical mapping for depth channel to leverage depth features and fused with RGB defense outcomes.</li>
-    <li>Applied the defense patch detector against various attack pattern initializations and optimizer.</li>
+    <li>Applied the defense patch detector against various attack initializations, like stars and gems, and different attack optimizers, like PGD and Adam, to test the adaptability of the defense method.</li>
     <li>Achieved robust detection accuracy and cross-optimizer robustness.</li>
 </ul><p>
 
@@ -74,7 +72,7 @@ Advisor: Prof. Yang Xiao<br>
 Course Project, Full Mark<br>
 <ul>
     <li>Implemented PIV task by using RGB and 3D depth gesture information.</li>
-    <li>Trained and tested on 3 different models: Two-Stream ResNet which is the fusion recognition of blur and detail images, Two-Stream ResNet which is the fusion recognition of RGB and 3D depth images, PointNet which focuses on 3D depth images.</li>
+    <li>Trained and tested on 3 different models: two-stream ResNet for blur and detail images, two-stream ResNet for RGB and depth images, and PointNet for 3D depth images</li>
     <li>Optimized result by combining some classic methods: guided filter & edge extraction, stacking ensemble algorithm.</li>
 </ul><p>
 
@@ -86,7 +84,7 @@ Course Project, Score A+<br>
     <li>Developed a peeping camera recognition and detection system.</li>
     <li>Collected natural and infrared light images.</li>
     <li>Identified bright spots through algorithms like image difference, OTSU threshold segmentation, region growth and clustering.</li>
-    <li>Achieved the detection of the phone camera.</li>
+    <li>Developed a visualization UI based on MFC.</li>
 </ul><p>
 
 
@@ -103,7 +101,7 @@ Big Data Competition, National First Prize (30 out of 1000 teams)<br>
 
 <p><u>Embedded Machine Vision Design</u><br>
 Control Innovation Base Class of Qiming College of HUST<br>
-Course Design, Score A+<br>
+Competition Program, Score A+<br>
 <ul>
     <li>Joined the Control Innovation Base Class of Qiming College of HUST.</li>
     <li>Implemented the object recognition for a small intelligent car based on color recognition and PID control algorithm.</li>
@@ -118,6 +116,6 @@ Second prize in the C Software Design Competition<br>
 <ul>
     <li>Conducted feasibility analysis, demand analysis, system function design, code implementation, software advantages and shortcomings analysis, and integration testing in the process of software design.</li>
     <li>Set functions into the software, including market condition analysis, market information display, recent ten years’ stock data switching and scientific visualization, fundamental and technical stock selection, user operations, dynamic stock update, etc.</li>
-    <li>Completed the software with a report, which defined the software system architecture design, software structure and data structure design, interface and call between each module, system interface design, system function design (function listing), specific algorithm design, etc.</li>
-    <li>Got the only full mark in the final evaluation, and won the second prize in the C Software Design Competition.</li>
+    <li>Completed the software with a report which defined the software system architecture design, software structure and data structure design, interface and call between each module, system interface design, system function design (function listing), specific algorithm design, etc.</li>
+    <li>Got the only full mark of the school in the final evaluation, and won the second prize in the C Software Design Competition.</li>
 </ul><p>

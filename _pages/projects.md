@@ -31,7 +31,7 @@ Advisor: Prof. Ram Nevatia<br>
 Research Program<br>
 
 
-<p><u>Emotion Assessment Based on Facial Language Understanding</u><br>
+<p><u>Emotion Assessment System Based on Facial Language Understanding</u><br>
 Advisor: Prof. Sheng Zhong<br>
 Research Program, Team leader<br>
 

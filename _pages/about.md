@@ -45,9 +45,9 @@ Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yu
 
 <p><u>Learning vision Robust Represtation (LR<sup>2</sup>)</u><br>
 Advisor: Prof. Ram Nevatia, Dr. Zhaoheng Zheng<br>
-Research Program<br>
+Research Program<br><p>
 
-You can also view my complete list of projects at the <a href="/projects/">Projects Full list</a>.
+You can also view my complete list of projects in the <a href="/projects/">Projects Full list</a>.
 
 <h2 id="education"> Education </h2>
 <div style='display: flex; justify-content: space-between;'>

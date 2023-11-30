@@ -15,7 +15,7 @@ Course Project<br>
 <ul>
     <li>Developed a language-driven 3D stylization pipeline.</li>
     <li>Trained a radiance field model for 3D object rendering.</li>
-    <li>Applied GroundingedSAM to generate segmentation masks for for any given object query inputs, allowing object-level selection for stylization target.</li>
+    <li>Applied GroundingedSAM to generate segmentation masks for any given object query inputs, allowing object-level selection for targeted stylization.</li>
     <li>Applied masked NNFM to fine-tune the pretrained radiance field to achieve 3D stylization.</li>
 </ul><p>
 
@@ -24,8 +24,7 @@ Advisor: Prof. Ram Nevatia<br>
 Research Program<br>
 <ul>    
     <li>Developed a defense pipeline to address multi-object tracking challenges against adversarial attacks.</li>
-    <li>Implemented the RAFT optical flow detector combined with homography on localized patch regions.</li>
-    <li>Inverted optical flow to original frames to enhance downstream tracker's target detection within patch regions.</li>
+    <li>Implemented the RAFT optical flow detector combined with homography on localized patch regions, inverted optical flow to original frames to enhance downstream tracker's target detection within patch regions.</li>
     <li>Achieved robust detection and association accuracy in comparison to patch detectors used in object detection.</li>
 </ul><p>
 
@@ -59,8 +58,8 @@ Advisor: Prof. Sheng Zhong<br>
 Research Program, Team leader<br>
 <ul>
     <li>Developed a facial emotion assessment system based on facial language understanding.</li>
-    <li>Completed the training and validation of YOLO v5 and Dual Path Network on PC side.</li>
-    <li>Deployed the model on embedded platform, accelerate model inference speed in a GPU-free environment.</li>
+    <li>Completed the training and validation of YOLO v5 and Dual Path Network on PC side, which involves processing multi-frame data, targeting and classifying facial emotion, creating a visualization UI, and utilizing time series methods to predict emotions.</li>
+    <li>Deployed the model on embedded platform, accelerate model inference speed in a GPU-free environment, addressing challenges in detection accuracy and model efficiency.</li>
     <li>Realized accurate facial emotion targeting and classification.</li>
 </ul><p>
 

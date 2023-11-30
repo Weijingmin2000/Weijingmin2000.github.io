@@ -47,12 +47,22 @@ Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yu
 Advisor: Prof. Ram Nevatia, Dr. Zhaoheng Zheng<br>
 Research Program<br><p>
 
+<p><u>Language-Driven 3D Stylization</u><br>
+Advisor: Prof. Yue Wang<br>
+Course Project<br>
+<a href="https://github.com/Weijingmin2000/Language-Driven-3D-Stylization" class="btn btn--success">Github Repo</a></p>
+
+<p><u>Multi-modal Masked Adapter</u><br>
+Advisor: Prof. Jesse Thomason<br>
+Course Project, Score A<br>
+<a href="https://github.com/YinzhenWang/Real_CLIP_Adapter" class="btn btn--success">Github Repo</a></p>
+
 You can also view my complete list of projects in the <a href="/projects/">Projects Full list</a>.
 
 <h2 id="education"> Education </h2>
 <div style='display: flex; justify-content: space-between;'>
 	<p style='font-size:20px'><b>University of Southern California</b></p>
-	<i>Aug. 2022 - May 2024 (Expected)</i>
+	<i>Aug. 2022 - May 2024 (Exp.)</i>
 </div>
 GPA: <strong>3.8</strong>/4.0
 <br> Master of Science in Computer Science <br><p>

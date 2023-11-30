@@ -57,10 +57,9 @@ Research Program<br>
 Advisor: Prof. Sheng Zhong<br>
 Research Program, Team leader<br>
 <ul>
-    <li>Developed a facial emotion assessment system based on facial language understanding.</li>
+    <li>Developed a emotion assessment system based on facial language analysis and understanding.</li>
     <li>Completed the training and validation of YOLO v5 and Dual Path Network on PC side, which involves processing multi-frame data, targeting and classifying facial emotion, creating a visualization UI, and utilizing time series methods to predict emotions.</li>
     <li>Deployed the model on embedded platform, accelerate model inference speed in a GPU-free environment, addressing challenges in detection accuracy and model efficiency.</li>
-    <li>Realized accurate facial emotion targeting and classification.</li>
 </ul><p>
 
 
@@ -71,7 +70,7 @@ Advisor: Prof. Yang Xiao<br>
 Course Project, Full Mark<br>
 <ul>
     <li>Implemented PIV task by using RGB and 3D depth gesture information.</li>
-    <li>Trained and tested on 3 different models: two-stream ResNet for blur and detail images, two-stream ResNet for RGB and depth images, and PointNet for 3D depth images</li>
+    <li>Trained and tested on 3 different models: two-stream ResNet for blur and detail images, two-stream ResNet for RGB and depth images, and PointNet for depth images</li>
     <li>Optimized result by combining some classic methods: guided filter & edge extraction, stacking ensemble algorithm.</li>
 </ul><p>
 
@@ -81,8 +80,7 @@ Advisor: Prof. Jie Ma<br>
 Course Project, Score A+<br>
 <ul>
     <li>Developed a peeping camera recognition and detection system.</li>
-    <li>Collected natural and infrared light images.</li>
-    <li>Identified bright spots through algorithms like image difference, OTSU threshold segmentation, region growth and clustering.</li>
+    <li>Collected natural and infrared light images, identified bright spots of camera through algorithms like image difference, OTSU threshold segmentation, region growth and clustering.</li>
     <li>Developed a visualization UI based on MFC.</li>
 </ul><p>
 
@@ -104,7 +102,6 @@ Competition Program, Score A+<br>
 <ul>
     <li>Joined the Control Innovation Base Class of Qiming College of HUST.</li>
     <li>Implemented the object recognition for a small intelligent car based on color recognition and PID control algorithm.</li>
-    <li>Obtained A+ in the Course Design of Electronic Technology.</li>
 </ul><p>
 
 <p><u>Securities Quantitative Trading Software</u><br>

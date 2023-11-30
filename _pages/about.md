@@ -47,7 +47,7 @@ Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yu
 Advisor: Prof. Ram Nevatia, Dr. Zhaoheng Zheng<br>
 Research Program<br>
 
-You can also view my complete list of projects at the <a href="/projects/" style="color: #222;">Projects Full list</a>.
+You can also view my complete list of projects at the <a href="/projects/">Projects Full list</a>.
 
 <h2 id="education"> Education </h2>
 <div style='display: flex; justify-content: space-between;'>

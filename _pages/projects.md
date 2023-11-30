@@ -29,7 +29,13 @@ Course Project, Score A<br>
 <p><u>Robust Adversarial Object Detection</u><br>
 Advisor: Prof. Ram Nevatia<br>
 Research Program<br>
-
+<ul>    
+    <li>Developed a defense pipeline for RGB-depth object detection against adversarial nonadaptive, adaptive attacks.</li>
+    <li>Formulated the patch defense problem as a segmentation task for RGB channel to detect adversarial patch.</li>
+    <li>Maked an identical mapping for depth channel to leverage depth features and fused with RGB defense outcomes.</li>
+    <li>Applied the defense patch detector against various attack pattern initializations and optimizer.</li>
+    <li>Achieved robust detection accuracy and cross-optimizer robustness.</li>
+</ul><p>
 
 <p><u>Emotion Assessment System Based on Facial Language Understanding</u><br>
 Advisor: Prof. Sheng Zhong<br>

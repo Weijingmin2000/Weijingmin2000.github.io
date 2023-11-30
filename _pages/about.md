@@ -41,6 +41,14 @@ Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yu
 <br> CVPR 2022<br>
 <a href="https://www.amazon.science/publications/fashionvlp-vision-language-transformer-for-fashion-retrieval-with-feedback" class="btn btn--success">Paper</a></p> -->
 
+<h2 id="projects"> Projects </h2>
+
+<p><u>Learning vision Robust Represtation (LR<sup>2</sup>)</u><br>
+Advisor: Prof. Ram Nevatia, Dr. Zhaoheng Zheng<br>
+Research Program<br>
+
+You can also view my complete list of projects at the <a href="/projects/">Projects Full list</a>.
+
 <h2 id="education"> Education </h2>
 <div style='display: flex; justify-content: space-between;'>
 	<p style='font-size:20px'><b>University of Southern California</b></p>

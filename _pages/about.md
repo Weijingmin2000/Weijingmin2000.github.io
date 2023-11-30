@@ -11,7 +11,7 @@ redirect_from:
 Hi there 👋 I'm Jingmin Wei, a second-year M.S. student studying at University of Southern California (USC), majoring in [Computer Science](https://www.cs.usc.edu/). I am very fortunate to work at [IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/) under the guidance of Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/), collaborating closely with [Zhaoheng Zheng](https://zhaohengz.github.io/). My research interest lines in the area of <strong>robustness</strong> and <strong>efficiency</strong>, including robust visual representations against adversarial attacks and parameter-efficient fine-tuning.
 
 
-Prior to USC, I obtained my B.Eng. degree at the [School of Artificial Intelligence and Automation](http://english.aia.hust.edu.cn/), Huazhong University of Science and Technology (a Top 10 university in China). I worked as an undergrad research assistant, advised by Prof. [Sheng Zhong](http://english.aia.hust.edu.cn/info/1030/1347.htm), focusing on research about Facial Language Analysis and Understanding.
+Prior to USC, I obtained my B.Eng. degree at the [School of Artificial Intelligence and Automation](http://english.aia.hust.edu.cn/), Huazhong University of Science and Technology (a Top 10 university in China). I worked as an undergrad research assistant, advised by Prof. [Sheng Zhong](http://english.aia.hust.edu.cn/info/1030/1347.htm), focusing on research about facial language analysis and understanding.
 
 <!-- <font color="#ff0000">I am graduating in 2023/early 2024 and now actively looking for full-time positions in computer vision, machine learning, and artificial intelligence. Please feel free to get in touch if there are any opportunities!</font> -->
 

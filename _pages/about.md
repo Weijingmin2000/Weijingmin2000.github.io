@@ -21,7 +21,7 @@ Prior to USC, I obtained my B.Eng. degree at the [School of Artificial Intellige
     <li>Computer Vision</li>
     <li>Multi-modal Machine Learning</li>
     <li>Robustness and Security</li>
-    <li>Parameter-efficient Learning</li>
+    <li>Parameter-efficient Fine-tuning</li>
 </ul>
 
 

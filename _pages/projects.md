@@ -17,12 +17,24 @@ Course Project<br>
 <p><u>Multi-object Robust Tracking</u><br>
 Advisor: Prof. Ram Nevatia<br>
 Research Program<br>
-
+<ul>    
+    <li>Developed a defense pipeline to address multi-object tracking challenges against adversarial attacks.</li>
+    <li>Implemented the RAFT optical flow detector combined with homography on localized patch regions.</li>
+    <li>Inverted optical flow to original frames to enhance downstream tracker's target detection within patch regions.</li>
+    <li>Achieved robust detection and association accuracy in comparison to patch detectors used in object detection.</li>
+</ul><p>
 
 <p><u>Multi-modal Masked Adapter</u><br>
 Advisor: Prof. Jesse Thomason<br>
 Course Project, Score A<br>
-<a href="https://github.com/YinzhenWang/Real_CLIP_Adapter" class="btn btn--success">Github Repo</a></p>
+<a href="https://github.com/YinzhenWang/Real_CLIP_Adapter" class="btn btn--success">Github Repo</a><br>
+<ul>
+    <li>Developed a masked Adapter for fine-tuning the pre-trained CLIP model.</li>
+    <li>Applied LoRA Adapter to downstream multimodal tasks.</li>
+    <li>Trained with masked image \& language modeling to achieve better multimodal representation.</li>
+    <li>Achieved comparable performance to fully fine-tuning with only 10\% parameters and reduced training time.</li>
+    <li>Proved that knowledge acquired from unimodal Adapters can support and assist multimodal tasks.</li>
+</ul><p>
 
 
 <h2> 2022 </h2>
@@ -40,6 +52,13 @@ Research Program<br>
 <p><u>Emotion Assessment System Based on Facial Language Understanding</u><br>
 Advisor: Prof. Sheng Zhong<br>
 Research Program, Team leader<br>
+<ul>
+    <li>Developed a facial emotion assessment system based on facial language understanding.</li>
+    <li>Implemented facial emotion detection and classification based on YOLO v5 and Dual Path Network.</li>
+    <li>Deployed the model on embedded platform, accelerate model inference speed in a GPU-free environment.</li>
+    <li>Completed the training and validation of YOLO v5 and Dual Path Network on PC side.</li>
+    <li>Realized accurate facial emotion targeting and classification.</li>
+</ul><p>
 
 
 <h2> 2021 </h2>

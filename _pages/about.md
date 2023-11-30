@@ -81,8 +81,8 @@ GPA: <strong>3.84</strong>/4.0
     <li>Excellent College Students Research Program, 2022</li>
     <li>Scholarship for Scientific and Technological Innovation, 2021</li>
     <li>Scholarship for Academic Excellence, 2021</li>
-    <li>Social Scholarship for "Shenzhen Stock Exchange", 2021</li>
-    <li>National First prize, Big Data Competition, 2021</li>
+    <li>Social Scholarship for "Shenzhen Stock Exchange" (the only one in school), 2021</li>
+    <li>National First prize, Big Data Competition (top 0.3%),  2021</li>
 </ul>
 
 <h2 id="skills"> Technical Skills </h2>

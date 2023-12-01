@@ -45,7 +45,7 @@ Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yu
 <h2 id="projects"> Projects </h2>
 
 <p><u>Learning Robust visial Represtation (LR<sup>2</sup>)</u><br>
-Advisor: Prof. Ram Nevatia, Dr. Zhaoheng Zheng<br>
+Advisor: Prof. Ram Nevatia, Zhaoheng Zheng<br>
 Research Program<br><p>
 
 <p><u>Language-Driven 3D Stylization</u><br>

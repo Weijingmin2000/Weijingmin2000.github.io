@@ -86,9 +86,9 @@ GPA: <strong>3.8</strong>/4.0
 </ul>
 
 <h2 id="skills"> Technical Skills </h2>
-<strong>Programming Languages:</strong> Python, C/C++, Shell, JAVA, Matlab, SQL, Assembly Language <br>
-<strong>Software & Platform:</strong> Linux, LaTeX, MFC, Qt, Simulink, Git, Docker <br>
-<strong>Deep Learning Frameworks:</strong> PyTorch, Tensorflow, NumPy, HuggingFace, Caffe, Keras <p>
+<strong>Programming Languages:</strong> Python, C/C++, Shell, Matlab, JAVA, SQL<br>
+<strong>Deep Learning Frameworks:</strong> PyTorch, Tensorflow, NumPy, HuggingFace, Caffe, Keras <br>
+<strong>Software & Platform:</strong> Linux, LaTeX, MFC, Qt, Simulink, Git, Docker <p>
 
 
 <p hidden><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WuTycU_gptD1_uRJMJF-BV4Q0VudvsyDQpgvA3okEYs&cl=ffffff&w=a"></script></p>

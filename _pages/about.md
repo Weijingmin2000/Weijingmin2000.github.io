@@ -35,7 +35,7 @@ Zhaoheng Zheng, <strong>Jingmin Wei</strong>, Xuefeng Hu, Haidong Zhu, and Ram N
 <p><u>GDN: A Stacking Network Used for Skin Cancer Diagnosis</u><br>
 <strong>Jingmin Wei</strong>, Haoyang Shen, Ziyi Wang, Ziqian Zhang
 <br> ICSPS 2021<br>
-<a href="https://doi.org/10.1117/12.2631455" class="btn btn--success"Paper</a></p>
+<a href="https://doi.org/10.1117/12.2631455" class="btn btn--success">Paper</a></p>
 
 <!-- <p><u>FashionVLP: Vision Language Transformer for Fashion Retrieval with Feedback</u><br>
 Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yue Wu, Pradeep Natarajan, and Varsha Hedau

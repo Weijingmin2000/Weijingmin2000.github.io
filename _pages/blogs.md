@@ -5,12 +5,6 @@ permalink: /blogs/
 author_profile: true
 ---
 
-<style>
-  .lecture-link {
-    margin-right: 10px;
-  }
-</style>
-
 <h2> Machine Learning Course Notes </h2>
 
 Course note for CSCI 567 - Machine Learning (Fall 2022). Primarily based on slides from Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>. <br>

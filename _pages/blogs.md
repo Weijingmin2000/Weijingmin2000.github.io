@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "blogs"
+title: "Blogs"
 permalink: /blogs/
 author_profile: true
 ---
@@ -31,3 +31,23 @@ Course note for CSCI 567 - Machine Learning (Fall 2022). Primarily based on slid
 <h2> PyTorch Study Notes (in Mandarin) </h2>
 
 Here're some study blogs and basic tutorials (in Mandarin) on PyTorch, which already harvested more than 60K views and hundreds of bookmarks. If you're interested, click the <a href="https://blog.csdn.net/weixin_44979150/category_11618935.html">Tutorial Link</a> and browse on your own.
+
+
+<h2> Data Science Course Notes (in Mandarin) </h2>
+Course note for Foundations of Data Science, write in Mandarin. Primarily based on slides from Prof. <a href="https://yy311.github.io/">Ye Yuan</a>, and book <a href="https://book.douban.com/subject/35317174/">"Mathmatics in Machine Learning"</a>. <br>
+<ul>
+    <li> <a href="https://weijingmin2000.github.io/files/Data Science/Lesson 1 Equation Solving.pdf">Lesson 1 Equation Solving</a> </li>
+    <li> <a href="https://weijingmin2000.github.io/files/Data Science/Lesson 2 Functional Imitation.pdf">Lesson 2 Functional Imitation</a> </li>
+    <li> <a href="https://weijingmin2000.github.io/files/Data Science/Lesson 3 Fundamentals of Optimizing Method.pdf">Lesson 3 Fundamentals of Optimizing Method</a> </li>
+    <li> <a href="https://weijingmin2000.github.io/files/Data Science/Lesson 3.5 Estimator of Probability Density Function(MLE, MAP, Bayes, KNN, Parzen, GMM, EM).pdf">Lesson 3.5 Estimator of Probability Density Function(MLE, MAP, Bayes, KNN, Parzen, GMM, EM)</a> </li>
+    <li> <a href="https://weijingmin2000.github.io/files/Data Science/Lesson 4 Regression (Linear, NonLinear, Ridge, Lasso).pdf">Lesson 4 Regression (Linear, NonLinear, Ridge, Lasso)</a> </li>
+    <li> <a href="https://weijingmin2000.github.io/files/Data Science/Lesson 5 Classification (Perceptron, Fisher, Logistic, Softmax, Bayes).pdf">Lesson 5 Classification (Perceptron, Fisher, Logistic, Softmax, Bayes)</a> </li>
+    <li> <a href="https://weijingmin2000.github.io/files/Data Science/Lesson 6 SVMs.pdf">Lesson 6 SVMs</a> </li>
+    <li> <a href="https://weijingmin2000.github.io/files/Data Science/Lesson 7 Information Theory and Decision Treee.pdf">Lesson 7 Information Theory and Decision Treee</a> </li>
+    <li> <a href="https://weijingmin2000.github.io/files/Data Science/Lesson 8 Clustering and Dimension Reduction.pdf">Lesson 8 Clustering and Dimension Reduction</a> </li>
+    <li> <a href="https://weijingmin2000.github.io/files/Data Science/Lesson 9 Convex Optimization.pdf">Lesson 9 Convex Optimization</a> </li>
+    <li> <a href="https://weijingmin2000.github.io/files/Data Science/Lesson 10 Stochastic Process and Reinforcement Learning.pdf">Lesson 10 Stochastic Process and Reinforcement Learning</a> </li>
+    <li> <a href="https://weijingmin2000.github.io/files/Data Science/Lesson 11 Neural Network and Deep Learning.pdf">Lesson 11 Neural Network and Deep Learning</a> </li>
+    <li> <a href="https://weijingmin2000.github.io/files/Data Science/Lesson 12 Time Series.pdf">Lesson 12 Time Series</a> </li>
+    <li> <a href="https://weijingmin2000.github.io/files/Data Science/Lesson 13 Ensemble Learning.pdf">Lesson 13 Ensemble Learning</a> </li>
+</ul><p>

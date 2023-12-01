@@ -30,3 +30,8 @@ Mainly copy from Prof. Vatsal Sharan's slides<br><p>
 <a href="https://weijingmin2000.github.io/files/Lecture 10 - K-Means, GMM and EM.pdf">Lecture 10</a>
 
 <a href="https://weijingmin2000.github.io/files/Lecture 11 - KDE, Naive Bayes and Multi-armed Bandits.pdf">Lecture 11</a>
+
+
+<h2> PyTorch Study Notes (in Mandarin) </h2>
+
+Here're some study blogs and basic tutorials (in Mandarin) on PyTorch, which already harvested more than 60K views and hundreds of bookmarks. If you're interested, click the [link](https://blog.csdn.net/weixin_44979150) and browse on your own.

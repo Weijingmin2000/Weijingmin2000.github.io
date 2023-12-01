@@ -5,19 +5,25 @@ permalink: /blogs/
 author_profile: true
 ---
 
+<style>
+  .lecture-link {
+    margin-right: 10px;
+  }
+</style>
+
 <h2> Machine Learning Course Notes </h2>
 
-<p>
-Mainly copy from Prof. Vatsal Sharan's slides<br><p>
-<a href="https://weijingmin2000.github.io/files/Lecture 1 - ML Framework, Linear Regression and Optimization Methods.pdf">Lecture 1</a><p>
+Course note for CSCI 567 - Machine Learning (Fall 2022). Primarily based on slides from Prof. Vatsal Sharan.<br><p>
 
-<a href="https://weijingmin2000.github.io/files/Lecture 2 - Perceptron and Logistic Regression.pdf">Lecture 2</a><p>
+<a href="https://weijingmin2000.github.io/files/Lecture 1 - ML Framework, Linear Regression and Optimization Methods.pdf" style="margin-right: 5px;">Lecture 1</a>
 
-<a href="https://weijingmin2000.github.io/files/Lecture 3 - Generalization, Overfitting and Regularization.pdf">Lecture 3</a><p>
+<a href="https://weijingmin2000.github.io/files/Lecture 2 - Perceptron and Logistic Regression.pdf" style="margin-right: 5px;">Lecture 2</a>
+
+<a href="https://weijingmin2000.github.io/files/Lecture 3 - Generalization, Overfitting and Regularization.pdf" style="margin-right: 20px;">Lecture 3</a><p>
 
 <a href="https://weijingmin2000.github.io/files/Lecture 4 - Regularization and Kernel Methods.pdf">Lecture 4</a><p>
 
-<a href="https://weijingmin2000.github.io/files/files/Lecture 5 - SVMs.pdf">Lecture 5</a>
+<a href="https://weijingmin2000.github.io/files/files/Lecture 5 - SVMs.pdf">Lecture 5</a><p>
 
 <a href="https://weijingmin2000.github.io/files/Lecture 6 - Multiclass Classification and Nerual Network.pdf">Lecture 6</a><p>
 
@@ -34,4 +40,4 @@ Mainly copy from Prof. Vatsal Sharan's slides<br><p>
 
 <h2> PyTorch Study Notes (in Mandarin) </h2>
 
-Here're some study blogs and basic tutorials (in Mandarin) on PyTorch, which already harvested more than 60K views and hundreds of bookmarks. If you're interested, click the <a href="https://blog.csdn.net/weixin_44979150" class="btn btn--success">tutorial link</a> and browse on your own.
+Here're some study blogs and basic tutorials (in Mandarin) on PyTorch, which already harvested more than 60K views and hundreds of bookmarks. If you're interested, click the <a href="https://blog.csdn.net/weixin_44979150">Tutorial Link</a> and browse on your own.

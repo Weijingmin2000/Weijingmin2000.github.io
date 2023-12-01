@@ -21,4 +21,4 @@ Abstract: Low-shot image classification, where training images are limited or in
 <p><u>GDN: A Stacking Network Used for Skin Cancer Diagnosis</u><br>
 <strong>Jingmin Wei</strong>, Haoyang Shen, Ziyi Wang, Ziqian Zhang
 <br> ICSPS 2021<br>
-<a href="https://doi.org/10.1117/12.2631455" class="btn btn--success">Website</a></p>
+<a href="https://doi.org/10.1117/12.2631455" class="btn btn--success">Paper</a></p>

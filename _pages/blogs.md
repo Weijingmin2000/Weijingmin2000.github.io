@@ -40,4 +40,4 @@ Course note for CSCI 567 - Machine Learning (Fall 2022). Primarily based on slid
 
 <h2> PyTorch Study Notes (in Mandarin) </h2>
 
-Here're some study blogs and basic tutorials (in Mandarin) on PyTorch, which already harvested more than 60K views and hundreds of bookmarks. If you're interested, click the <a href="https://blog.csdn.net/weixin_44979150">Tutorial Link</a> and browse on your own.
+Here're some study blogs and basic tutorials (in Mandarin) on PyTorch, which already harvested more than 60K views and hundreds of bookmarks. If you're interested, click the <a href="https://blog.csdn.net/weixin_44979150/category_11618935.html">Tutorial Link</a> and browse on your own.

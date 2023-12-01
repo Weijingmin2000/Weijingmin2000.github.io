@@ -72,7 +72,7 @@ GPA: <strong>3.8</strong>/4.0
 	<p style='font-size:20px'><b>Huazhong University of Science and Technology</b></p>
 	<i>Sep. 2018 - Jun. 2022</i>
 </div>
-GPA: <strong>3.84</strong>/4.0
+GPA: <strong>3.8</strong>/4.0
 <br> Bachelor of Engineering in Automation, Pattern Recognition <br><p>
 
 <h2 id="awards"> Awards </h2>

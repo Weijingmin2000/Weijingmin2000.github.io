@@ -28,13 +28,13 @@ Course note for CSCI 567 - Machine Learning (Fall 2022). Primarily based on slid
     <li> <a href="https://weijingmin2000.github.io/files/Lecture 11 - KDE, Naive Bayes and Multi-armed Bandits.pdf">Lecture 11 - KDE, Naive Bayes and Multi-armed Bandits</a> </li>
 </ul><p>
 
-<h2> PyTorch Study Notes (in Mandarin) </h2>
+<h2> PyTorch Study Blogs (in Mandarin) </h2>
 
-Here're some study blogs and basic tutorials (in Mandarin) on PyTorch, which already harvested more than 60K views and hundreds of bookmarks. If you're interested, click the <a href="https://blog.csdn.net/weixin_44979150/category_11618935.html">Tutorial Link</a> and browse on your own.
+Here're some study blogs and basic tutorials (in Mandarin) on PyTorch, which already harvested more than 120K views and thousands of bookmarks. If you're interested, click the <a href="https://blog.csdn.net/weixin_44979150/category_11618935.html">Tutorial Link</a> and browse on your own.
 
 
 <h2> Data Science Course Notes (in Mandarin) </h2>
-Course note for Foundations of Data Science, write in Mandarin. Primarily based on slides from Prof. <a href="https://yy311.github.io/">Ye Yuan</a>, and book <a href="https://book.douban.com/subject/35317174/">"Mathmatics in Machine Learning"</a>. <br>
+Course note for Foundations of Data Science, wrote by Mandarin. Primarily based on slides from Prof. <a href="https://yy311.github.io/">Ye Yuan</a>, book <a href="https://book.douban.com/subject/35317174/">Mathmatics in Machine Learning</a>, and book <a href="https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm">Machine Learning</a>. <br>
 <ul>
     <li> <a href="https://weijingmin2000.github.io/files/Data Science/Lesson 1 Equation Solving.pdf">Lesson 1 Equation Solving</a> </li>
     <li> <a href="https://weijingmin2000.github.io/files/Data Science/Lesson 2 Functional Imitation.pdf">Lesson 2 Functional Imitation</a> </li>

@@ -15,11 +15,11 @@ author_profile: true
 
 Course note for CSCI 567 - Machine Learning (Fall 2022). Primarily based on slides from Prof. Vatsal Sharan.<br><p>
 
-<a href="https://weijingmin2000.github.io/files/Lecture 1 - ML Framework, Linear Regression and Optimization Methods.pdf" style="margin-right: 5px;">Lecture 1</a>
+<a href="https://weijingmin2000.github.io/files/Lecture 1 - ML Framework, Linear Regression and Optimization Methods.pdf" style="margin-bottom: 5px;">Lecture 1</a>
 
-<a href="https://weijingmin2000.github.io/files/Lecture 2 - Perceptron and Logistic Regression.pdf" style="margin-right: 5px;">Lecture 2</a>
+<a href="https://weijingmin2000.github.io/files/Lecture 2 - Perceptron and Logistic Regression.pdf" style="margin-bottom: 5px;">Lecture 2</a>
 
-<a href="https://weijingmin2000.github.io/files/Lecture 3 - Generalization, Overfitting and Regularization.pdf" style="margin-right: 20px;">Lecture 3</a><p>
+<a href="https://weijingmin2000.github.io/files/Lecture 3 - Generalization, Overfitting and Regularization.pdf" style="margin-bottom: 20px;">Lecture 3</a><p>
 
 <a href="https://weijingmin2000.github.io/files/Lecture 4 - Regularization and Kernel Methods.pdf">Lecture 4</a><p>
 

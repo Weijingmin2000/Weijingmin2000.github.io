@@ -45,16 +45,16 @@ Sonam Goenka*, <strong>Zhaoheng Zheng*</strong>, Ayush Jaiswal, Rakesh Chada, Yu
 <h2 id="projects"> Projects </h2>
 
 <p><u>Learning Robust visual Represtation (LR<sup>2</sup>)</u><br>
-Advisor: Prof. Ram Nevatia, Zhaoheng Zheng<br>
+Advisor: Prof. <a href="https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/">Ram Nevatia</a>, Zhaoheng Zheng<br> 
 Research Program<br><p>
 
 <p><u>Language-Driven 3D Stylization</u><br>
-Advisor: Prof. Yue Wang<br>
+Advisor: Prof. <a href="https://yuewang.xyz/">Yue Wang</a><br> 
 Course Project<br>
 <a href="https://github.com/Weijingmin2000/Language-Driven-3D-Stylization" class="btn btn--success">Github Repo</a></p>
 
 <p><u>Multi-modal Masked Adapter</u><br>
-Advisor: Prof. Jesse Thomason<br>
+Advisor: Prof. <a href="https://jessethomason.com/">Jesse Thomason</a><br>
 Course Project, Score A<br>
 <a href="https://github.com/YinzhenWang/Real_CLIP_Adapter" class="btn btn--success">Github Repo</a></p>
 
@@ -65,14 +65,14 @@ You can also view my complete list of projects in the <a href="/projects/">Proje
 	<p style='font-size:20px'><b>University of Southern California</b></p>
 	<i>Aug. 2022 - May 2024 (Exp.)</i>
 </div>
-GPA: <strong>3.8</strong>/4.0
+GPA: <strong>3.8</strong> / 4.0
 <br> Master of Science in Computer Science <br><p>
 
 <div style='display: flex; justify-content: space-between;'>
 	<p style='font-size:20px'><b>Huazhong University of Science and Technology</b></p>
 	<i>Sep. 2018 - Jun. 2022</i>
 </div>
-GPA: <strong>3.8</strong>/4.0
+GPA: <strong>3.8</strong> / 4.0
 <br> Bachelor of Engineering in Automation, Pattern Recognition <br><p>
 
 <h2 id="awards"> Awards </h2>

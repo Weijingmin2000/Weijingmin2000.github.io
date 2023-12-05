@@ -65,7 +65,7 @@ You can also view my complete list of projects in the <a href="/projects/">Proje
 	<p style='font-size:20px'><b>University of Southern California</b></p>
 	<i>Aug. 2022 - May 2024 (Exp.)</i>
 </div>
-GPA: <strong>3.8</strong> / 4.0
+<!-- GPA: <strong>3.8</strong> / 4.0 -->
 <br> Master of Science in Computer Science <br><p>
 
 <div style='display: flex; justify-content: space-between;'>

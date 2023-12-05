@@ -22,6 +22,17 @@ Course note for CSCI 567 - Machine Learning (Fall 2022). Primarily based on slid
     <li> <a href="https://weijingmin2000.github.io/files/Lecture 11 - KDE, Naive Bayes and Multi-armed Bandits.pdf">Lecture 11 - KDE, Naive Bayes and Multi-armed Bandits</a> </li>
 </ul><p>
 
+
+<h2> Presentation Slides </h2>
+Some slides for course presentation.<br>
+<ul>
+    <li> <a href="https://weijingmin2000.github.io/files/Pre Slides/Rethinking the Effectiveness of Masked Adapter.pdf">Rethinking the Effectiveness of Masked Adapter</a> </li>
+    <li> <a href="https://weijingmin2000.github.io/files/Pre Slides/What can Transformers Learn In-Context?.pdf">What can Transformers Learn In-Context?</a> </li>
+    <li> <a href="https://weijingmin2000.github.io/files/Pre Slides/Language-driven 3D Stylization.pdf">Language-driven 3D Stylization</a> </li>
+    <li> <a href="https://weijingmin2000.github.io/files/Pre Slides/Interpretable White-box Deep Nets.pdf">Interpretable White-box Deep Nets</a> </li>
+</ul><p>
+
+
 <h2> PyTorch Study Blogs (in Mandarin) </h2>
 
 Here're some study blogs and basic tutorials (in Mandarin) on PyTorch, which already harvested more than 120K views and thousands of bookmarks. If you're interested, click the <a href="https://blog.csdn.net/weixin_44979150/category_11618935.html">Tutorial Link</a> and browse on your own.

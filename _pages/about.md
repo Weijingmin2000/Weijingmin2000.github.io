@@ -60,7 +60,7 @@ Course Project, Score A<br>
 
 <p><u>Emotion Assessment System Based on Facial Language Understanding</u><br>
 Advisor: Prof. <a href="http://english.aia.hust.edu.cn/info/1030/1347.htm">Sheng Zhong</a><br>
-Excellent Colloge Student Research Program<br>
+Excellent Colloge Student Research Program<br></p>
 
 You can also view my complete list of projects in the <a href="/projects/">Projects Full list</a>.
 

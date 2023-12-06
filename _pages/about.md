@@ -20,7 +20,7 @@ Prior to USC, I completed my bachelor degree at the [School of Artificial Intell
 <ul>
     <li>Computer Vision</li>
     <li>Multi-modal Machine Learning</li>
-    <li>Robustness and Security</li>
+    <li>Robustness and Trustworthy ML</li>
     <li>Parameter-efficient Fine-tuning</li>
 </ul>
 
@@ -57,6 +57,10 @@ Course Project<br>
 Advisor: Prof. <a href="https://jessethomason.com/">Jesse Thomason</a><br>
 Course Project, Score A<br>
 <a href="https://github.com/YinzhenWang/Real_CLIP_Adapter" class="btn btn--success">Github Repo</a></p>
+
+<p><u>Emotion Assessment System Based on Facial Language Understanding</u><br>
+Advisor: Prof. <a href="http://english.aia.hust.edu.cn/info/1030/1347.htm">Sheng Zhong</a><br>
+Excellent Colloge Student Research Program<br>
 
 You can also view my complete list of projects in the <a href="/projects/">Projects Full list</a>.
 

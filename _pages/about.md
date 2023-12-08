@@ -67,14 +67,14 @@ You can also view my complete list of projects in the <a href="/projects/">Proje
 <h2 id="education"> Education </h2>
 <div style='display: flex; justify-content: space-between;'>
 	<p style='font-size:20px'><b>University of Southern California</b></p>
-	<i>Aug. 2022 - May 2024 (Exp.)</i>
+	<i>22 Aug. 2022 - 10 May 2024 (Exp.)</i>
 </div>
 GPA: <strong>3.8</strong> / 4.0 <br> 
 Master of Science in Computer Science <br><p>
 
 <div style='display: flex; justify-content: space-between;'>
 	<p style='font-size:20px'><b>Huazhong University of Science and Technology</b></p>
-	<i>Sep. 2018 - Jun. 2022</i>
+	<i>01 Sep. 2018 - 22 Jun. 2022</i>
 </div>
 GPA: <strong>3.8</strong> / 4.0
 <br> Bachelor of Engineering in Automation, Pattern Recognition <br><p>

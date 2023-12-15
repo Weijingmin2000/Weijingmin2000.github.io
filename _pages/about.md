@@ -22,6 +22,7 @@ Prior to USC, I completed my bachelor degree at the [School of Artificial Intell
     <li>Multi-modal Machine Learning</li>
     <li>Robustness and Trustworthy ML</li>
     <li>Parameter-efficient Fine-tuning</li>
+    <li>Multi-object Detection and Tracking</li>
 </ul>
 
 

@@ -7,7 +7,7 @@ author_profile: true
 
 <h2> Machine Learning Course Notes </h2>
 
-Course note for CSCI 567 - Machine Learning (Fall 2022). Primarily based on slides from Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>. <br>
+Course note for Machine Learning (Fall 2022). Primarily based on slides from Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>. <br>
 <ul>
     <li> <a href="https://weijingmin2000.github.io/files/Lecture 1 - ML Framework, Linear Regression and Optimization Methods.pdf">Lecture 1 - ML Framework, Linear Regression and Optimization Methods</a> </li>
     <li> <a href="https://weijingmin2000.github.io/files/Lecture 2 - Perceptron and Logistic Regression.pdf">Lecture 2 - Perceptron and Logistic Regression</a> </li>

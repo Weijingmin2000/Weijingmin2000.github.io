@@ -39,7 +39,7 @@ Here're some study blogs and basic tutorials (in Mandarin) on PyTorch, which alr
 
 
 <h2> Data Science Course Notes (in Mandarin) </h2>
-Course note for Foundations of Data Science, wrote by Mandarin. Primarily based on slides from Prof. <a href="https://yy311.github.io/">Ye Yuan</a>, book <a href="https://book.douban.com/subject/35317174/">Mathmatics in Machine Learning</a>, and book <a href="https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm">Machine Learning</a>. <br>
+Course note for Foundations of Data Science, wrote in Mandarin. Primarily based on slides from Prof. <a href="https://yy311.github.io/">Ye Yuan</a>, book <a href="https://book.douban.com/subject/35317174/">Mathmatics in Machine Learning</a>, and book <a href="https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm">Machine Learning</a>. <br>
 <ul>
     <li> <a href="https://weijingmin2000.github.io/files/Data Science/Lesson 1 Equation Solving.pdf">Lesson 1 Equation Solving</a> </li>
     <li> <a href="https://weijingmin2000.github.io/files/Data Science/Lesson 2 Functional Imitation.pdf">Lesson 2 Functional Imitation</a> </li>

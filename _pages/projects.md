@@ -11,7 +11,7 @@ author_profile: true
 <p><u>Language-Driven 3D Stylization</u><br>
 Advisor: Prof. Yue Wang<br>
 Course Project<br>
-<a href="https://github.com/Weijingmin2000/Language-Driven-3D-Stylization" class="btn btn--success">Github Repo</a></p>
+<a href="https://github.com/Weijingmin2000/Language-Driven-3D-Stylization" class="btn btn--warning">Code</a></p>
 <ul>
     <li>Developed a language-driven 3D stylization pipeline.</li>
     <li>Trained a radiance field model for 3D object rendering.</li>
@@ -31,7 +31,7 @@ Research Program<br>
 <p><u>Multi-modal Masked Adapter</u><br>
 Advisor: Prof. Jesse Thomason<br>
 Course Project, Score A<br>
-<a href="https://github.com/YinzhenWang/Real_CLIP_Adapter" class="btn btn--success">Github Repo</a><br>
+<a href="https://github.com/YinzhenWang/Real_CLIP_Adapter" class="btn btn--warning">Code</a><br>
 <ul>
     <li>Developed a masked Adapter for fine-tuning the pre-trained CLIP model.</li>
     <li>Applied LoRA Adapter to downstream multimodal tasks.</li>
@@ -108,7 +108,7 @@ Competition Program, Score A+<br>
 Advisor: Prof. Dingxin He<br>
 Course Design, Full Mark<br>
 Second prize in the C Software Design Competition<br>
-<a href="https://github.com/Weijingmin2000/STOCK" class="btn btn--success">Github Repo</a></p>
+<a href="https://github.com/Weijingmin2000/STOCK" class="btn btn--warning">Code</a></p>
 <ul>
     <li>Conducted feasibility analysis, demand analysis, system function design, code implementation, software advantages and shortcomings analysis, and integration testing in the process of software design.</li>
     <li>Set functions into the software, including market condition analysis, market information display, recent ten years’ stock data switching and scientific visualization, fundamental and technical stock selection, user operations, dynamic stock update, etc.</li>

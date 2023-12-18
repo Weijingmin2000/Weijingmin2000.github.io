@@ -52,12 +52,12 @@ Research Program<br><p>
 <p><u>Language-Driven 3D Stylization</u><br>
 Advisor: Prof. <a href="https://yuewang.xyz/">Yue Wang</a><br> 
 Course Project<br>
-<a href="https://github.com/Weijingmin2000/Language-Driven-3D-Stylization" class="btn btn--success">Github Repo</a></p>
+<a href="https://github.com/Weijingmin2000/Language-Driven-3D-Stylization" class="btn btn--warning">Code</a></p>
 
 <p><u>Multi-modal Masked Adapter</u><br>
 Advisor: Prof. <a href="https://jessethomason.com/">Jesse Thomason</a><br>
 Course Project, Score A<br>
-<a href="https://github.com/YinzhenWang/Real_CLIP_Adapter" class="btn btn--success">Github Repo</a></p>
+<a href="https://github.com/YinzhenWang/Real_CLIP_Adapter" class="btn btn--warning">Code</a></p>
 
 <p><u>Emotion Assessment System Based on Facial Language Understanding</u><br>
 Advisor: Prof. <a href="http://english.aia.hust.edu.cn/info/1030/1347.htm">Sheng Zhong</a><br>

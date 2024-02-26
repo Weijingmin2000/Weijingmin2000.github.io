@@ -30,6 +30,7 @@ Some slides for presentation.<br>
     <li> <a href="https://weijingmin2000.github.io/files/Pre Slides/What can Transformers Learn In-Context.pdf">What can Transformers Learn In-Context?</a> </li>
     <li> <a href="https://weijingmin2000.github.io/files/Pre Slides/Language-driven 3D Stylization.pdf">Language-driven 3D Stylization</a> </li>
     <li> <a href="https://weijingmin2000.github.io/files/Pre Slides/Interpretable White-box Deep Nets.pdf">Interpretable White-box Deep Nets</a> </li>
+    <li> <a href="https://weijingmin2000.github.io/files/Pre Slides/Midterm Ref.pdf">Information Retreval</a> </li>
 </ul><p>
 
 

@@ -30,12 +30,12 @@ Prior to USC, I completed my bachelor degree at the [School of Artificial Intell
 
 <p><u>Large Language Models are Good Prompt Learners for Low-Shot Image Classification</u><br>
 Zhaoheng Zheng, <strong>Jingmin Wei</strong>, Xuefeng Hu, Haidong Zhu, and Ram Nevatia
-<br> Accepted to CVPR 2024 <br>
+<br> CVPR 2024 <br>
 <a href="https://arxiv.org/abs/2312.04076" class="btn btn--success">Paper</a></p>
 
 <p><u>GDN: A Stacking Network Used for Skin Cancer Diagnosis</u><br>
 <strong>Jingmin Wei</strong>, Haoyang Shen, Ziyi Wang, Ziqian Zhang
-<br> International Conference on Signal Processing Systems, 2021<br>
+<br> International Conference on Signal Processing Systems, 2022<br>
 <a href="https://doi.org/10.1117/12.2631455" class="btn btn--success">Paper</a></p>
 
 <!-- <p><u>FashionVLP: Vision Language Transformer for Fashion Retrieval with Feedback</u><br>

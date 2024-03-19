@@ -24,12 +24,13 @@ Course note for Machine Learning (Fall 2022). Primarily based on slides from Pro
 
 
 <h2> Presentation Slides </h2>
-Some slides for presentation.<br>
+Some presentation slides.<br>
 <ul>
     <li> <a href="https://weijingmin2000.github.io/files/Pre Slides/Rethinking the Effectiveness of Masked Adapter.pdf">Rethinking the Effectiveness of Masked Adapter</a> </li>
     <li> <a href="https://weijingmin2000.github.io/files/Pre Slides/What can Transformers Learn In-Context.pdf">What can Transformers Learn In-Context?</a> </li>
     <li> <a href="https://weijingmin2000.github.io/files/Pre Slides/Language-driven 3D Stylization.pdf">Language-driven 3D Stylization</a> </li>
     <li> <a href="https://weijingmin2000.github.io/files/Pre Slides/Interpretable White-box Deep Nets.pdf">Interpretable White-box Deep Nets</a> </li>
+    <li> <a href="https://weijingmin2000.github.io/files/Pre Slides/Difference Masking.pdf">Difference Masking</a> </li>
 </ul><p>
 
 

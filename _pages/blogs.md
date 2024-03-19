@@ -5,7 +5,7 @@ permalink: /blogs/
 author_profile: true
 ---
 
-<h2> Machine Learning Course Notes </h2>
+<h2> Machine Learning Study Notes </h2>
 
 Course note for Machine Learning (Fall 2022). Primarily based on slides from Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>. <br>
 <ul>

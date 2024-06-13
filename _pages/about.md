@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there 👋 I'm Jingmin Wei, a second-year M.S. student studying at University of Southern California (USC), majoring in [Computer Science](https://www.cs.usc.edu/). I am very fortunate to work at [IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/) under the guidance of Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/), collaborating closely with [Zhaoheng Zheng](https://zhaohengz.github.io/). My research interest lies in the area of <strong>robustness</strong> and <strong>efficiency</strong>, including learning robust visual representation, focusing on strengthening models' resilience against adversarial attacks, and parameter-efficient fine-tuning, aiming to achieve greater efficacy in multi-modal optimization.
+Hi there 👋 I'm Jingmin Wei. I received my M.S. degree in [Computer Science](https://www.cs.usc.edu/) at University of Southern California (USC) in 2024. I am very fortunate to work at [IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/) under the guidance of Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/), collaborating closely with [Zhaoheng Zheng](https://zhaohengz.github.io/). My research interest lies in the area of <strong>robustness</strong> and <strong>efficiency</strong>, including learning robust visual representation, focusing on strengthening models' resilience against adversarial attacks, and parameter-efficient fine-tuning, aiming to achieve greater efficacy in multi-modal optimization.
 
 
 Prior to USC, I completed my bachelor degree at the [School of Artificial Intelligence and Automation](http://english.aia.hust.edu.cn/), [Huazhong Univ. of Science and Technology](https://english.hust.edu.cn/) (a Top 10 university in China). Advised by Prof. [Sheng Zhong](http://english.aia.hust.edu.cn/info/1030/1347.htm), I focused on research about building emotion assess system based on facial language analysis and understanding.
@@ -31,7 +31,7 @@ Prior to USC, I completed my bachelor degree at the [School of Artificial Intell
 <p><u>Large Language Models are Good Prompt Learners for Low-Shot Image Classification</u><br>
 Zhaoheng Zheng, <strong>Jingmin Wei</strong>, Xuefeng Hu, Haidong Zhu, and Ram Nevatia
 <br> CVPR 2024 <br>
-<a href="https://arxiv.org/abs/2312.04076" class="btn btn--success">Paper</a></p>
+<a href="https://arxiv.org/abs/2312.04076" class="btn btn--success">Paper</a> <a href="https://github.com/zhaohengz/LLaMP" class="btn btn--warning">Code</a></p>
 
 <p><u>GDN: A Stacking Network Used for Skin Cancer Diagnosis</u><br>
 <strong>Jingmin Wei</strong>, Haoyang Shen, Ziyi Wang, Ziqian Zhang

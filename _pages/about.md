@@ -57,7 +57,7 @@ Research Project, Score A<br>
 <p><u>Multi-modal Masked Adapter</u><br>
 Advisor: Prof. <a href="https://jessethomason.com/">Jesse Thomason</a><br>
 Course Project, Score A<br>
-<a href="https://github.com/YinzhenWang/Real_CLIP_Adapter" class="btn btn--warning">Code</a></p>
+<a href="https://weijingmin2000.github.io/files/Pre Slides/Rethinking the Effectiveness of Masked Adapter.pdf" class="btn btn--success">Slide</a> <a href="https://github.com/YinzhenWang/Real_CLIP_Adapter" class="btn btn--warning">Code</a></p>
 
 <p><u>Emotion Assessment System Based on Facial Language Understanding</u><br>
 Advisor: Prof. <a href="http://english.aia.hust.edu.cn/info/1030/1347.htm">Sheng Zhong</a><br>

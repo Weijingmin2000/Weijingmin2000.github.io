@@ -68,7 +68,7 @@ You can also view my complete list of projects in the <a href="/projects/">Proje
 <h2 id="education"> Education </h2>
 <div style='display: flex; justify-content: space-between;'>
 	<p style='font-size:20px'><b>University of Southern California</b></p>
-	<i>22 Aug. 2022 - 10 May 2024 (Exp.)</i>
+	<i>22 Aug. 2022 - 10 May 2024</i>
 </div>
 GPA: <strong>3.8</strong> / 4.0 <br> 
 Master of Science in Computer Science <br><p>

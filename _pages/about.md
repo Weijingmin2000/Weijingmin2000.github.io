@@ -31,7 +31,7 @@ Prior to USC, I completed my bachelor degree at the [School of Artificial Intell
 <p><u>Large Language Models are Good Prompt Learners for Low-Shot Image Classification</u><br>
 Zhaoheng Zheng, <strong>Jingmin Wei</strong>, Xuefeng Hu, Haidong Zhu, and Ram Nevatia
 <br> CVPR 2024 <br>
-<a href="https://arxiv.org/abs/2312.04076" class="btn btn--success">Paper</a> <a href="https://github.com/zhaohengz/LLaMP" class="btn btn--warning">Code</a></p>
+<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Large_Language_Models_are_Good_Prompt_Learners_for_Low-Shot_Image_CVPR_2024_paper.pdf" class="btn btn--success">Paper</a> <a href="https://github.com/zhaohengz/LLaMP" class="btn btn--warning">Code</a></p>
 
 <p><u>GDN: A Stacking Network Used for Skin Cancer Diagnosis</u><br>
 <strong>Jingmin Wei</strong>, Haoyang Shen, Ziyi Wang, Ziqian Zhang

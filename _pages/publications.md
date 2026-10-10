@@ -9,7 +9,7 @@ author_profile: true
 <!-- You can also find my publication list on <u><a href="https://scholar.google.com/citations?user=36e4ADAAAAAJ&hl=en">my Google Scholar profile</a>.</u> -->
 
 
-<h2> 2023 </h2>
+<h2> 2024 </h2>
 
 <p><u>Large Language Models are Good Prompt Learners for Low-Shot Image Classification</u><br>
 Zhaoheng Zheng, <strong>Jingmin Wei</strong>, Xuefeng Hu, Haidong Zhu, and Ram Nevatia

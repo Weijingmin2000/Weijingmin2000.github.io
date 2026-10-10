@@ -10,7 +10,7 @@ author_profile: true
 
 <p><u>Language-Driven 3D Stylization</u><br>
 Advisor: Prof. Yue Wang<br>
-Course Project<br>
+Research Project<br>
 <a href="https://github.com/Weijingmin2000/Language-Driven-3D-Stylization" class="btn btn--warning">Code</a></p>
 <ul>
     <li>Developed a language-driven 3D stylization pipeline.</li>
